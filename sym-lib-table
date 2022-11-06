@@ -1,4 +1,5 @@
 (sym_lib_table
   (lib (name "Sahil's_monstrosity")(type "Legacy")(uri "C:/Users/asher/Downloads/2023KicadLibrary-main/2023KicadLibrary-main/CD143A-SR05/CD143A-SR05.lib")(options "")(descr "")(disabled))
-  (lib (name "Global Symbols")(type "Legacy")(uri "C:/Users/asher/2023KicadLibrary/Global Symbols/Global Symbols.lib")(options "")(descr ""))
+  (lib (name "Global Symbols")(type "Legacy")(uri "C:/Users/asher/2023KicadLibrary/Global Symbols/Global Symbols.lib")(options "")(descr "")(disabled))
+  (lib (name "Global_Library")(type "KiCad")(uri "${KIPRJMOD}/2023KicadLibrary/Global Symbols/Global_Library.kicad_sym")(options "")(descr ""))
 )
