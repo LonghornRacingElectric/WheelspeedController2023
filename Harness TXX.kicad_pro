@@ -505,14 +505,6 @@
     [
       "3b53be70-8bbf-4fac-8f44-e59c6521e9a1",
       "MCU"
-    ],
-    [
-      "5eef7685-46e3-4490-b1c3-d367d5bf00e5",
-      "BUCK"
-    ],
-    [
-      "b697d16c-1839-48f8-af83-c961d5397db0",
-      "LDO"
     ]
   ],
   "text_variables": {}
