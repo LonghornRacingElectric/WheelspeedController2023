@@ -451,6 +451,7 @@
   )
 
 
+
   (no_connect (at 69.85 87.63) (uuid 06232817-8b68-4af0-8db8-75364b233dcc))
   (no_connect (at 69.85 92.71) (uuid 06232817-8b68-4af0-8db8-75364b233dcd))
   (no_connect (at 69.85 90.17) (uuid 06232817-8b68-4af0-8db8-75364b233dcf))
@@ -481,6 +482,9 @@
   (no_connect (at 69.85 105.41) (uuid 540181c5-46c9-4931-a1bb-edcd7a53ad73))
   (no_connect (at 69.85 110.49) (uuid 5fe22da2-dbdb-4ab9-ac64-af9f29b55032))
   (no_connect (at 69.85 107.95) (uuid 5fe22da2-dbdb-4ab9-ac64-af9f29b55033))
+  (no_connect (at 69.85 97.79) (uuid 665b3f00-6664-4990-b906-b1b01c35b13d))
+  (no_connect (at 69.85 100.33) (uuid 665b3f00-6664-4990-b906-b1b01c35b13d))
+  (no_connect (at 69.85 102.87) (uuid 665b3f00-6664-4990-b906-b1b01c35b13d))
   (no_connect (at 69.85 120.65) (uuid ec355cf7-46c5-458e-b78c-2510dbf81c10))
   (no_connect (at 69.85 123.19) (uuid ec355cf7-46c5-458e-b78c-2510dbf81c11))
   (no_connect (at 69.85 125.73) (uuid ec355cf7-46c5-458e-b78c-2510dbf81c12))
@@ -1741,7 +1745,7 @@
       (reference "D8") (unit 1) (value "RED") (footprint "LED_SMD:LED_0603_1608Metric")
     )
     (path "/3b53be70-8bbf-4fac-8f44-e59c6521e9a1/03bb6952-8654-4c84-bec4-48dc9118f988"
-      (reference "D9") (unit 1) (value "DT1446-04TS-7") (footprint "Global Libraries:SOT95P280X100-6N")
+      (reference "D9") (unit 1) (value "DT1446-04TS-7") (footprint "SOT95P280X100-6N")
     )
     (path "/3b53be70-8bbf-4fac-8f44-e59c6521e9a1/96af04c7-0dd8-4324-89bc-82ee00f61136"
       (reference "D10") (unit 1) (value "SMLVN6RGB") (footprint "LED_SMD:LED_ROHM_SMLVN6")
