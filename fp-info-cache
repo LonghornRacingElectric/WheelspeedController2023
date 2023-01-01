@@ -1,4 +1,4 @@
-19945594148796632
+19972375395288133
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -51947,12 +51947,54 @@ Fuse Fuseholder TR5 Littelfuse/Wickmann No. 460 No560
 2
 2
 Global Libraries
+355015KFT
+
+
+0
+2
+2
+Global Libraries
 348300801
 34830-0801-4
 Connector
 0
 8
 8
+Global Libraries
+436500200
+
+
+0
+2
+2
+Global Libraries
+AMASS_XT90PW-M
+
+
+0
+4
+4
+Global Libraries
+AXP823-44W5G-7
+
+
+0
+5
+5
+Global Libraries
+Adafruit_Ultimate_GPS_V3
+
+
+0
+9
+9
+Global Libraries
+CAS120A1
+CAS-120A1-2
+Switch (2-Pin Push)
+0
+3
+3
 Global Libraries
 CAS120B
 CAS-120B-1
@@ -51975,6 +52017,13 @@ MOSFET (N-Channel)
 9
 9
 Global Libraries
+CUI_TB001-500-P02BE
+
+
+0
+2
+2
+Global Libraries
 DRC23-24PB
 Deutsch DRC header 24 Pin
 connector Detusch DRC 24
@@ -51988,6 +52037,34 @@ Connector
 0
 9
 9
+Global Libraries
+ESD7016MUTAG
+
+
+0
+10
+10
+Global Libraries
+MBRB41H100CTT4G
+
+
+0
+3
+3
+Global Libraries
+PVG5A
+
+
+0
+3
+3
+Global Libraries
+Raspberry_Pi_4B_Socketed_THT_FaceDown_MountingHoles
+Raspberry Pi Zero using through hole straight pin socket, 2x20, 2.54mm pitch, https://www.raspberrypi.org/documentation/hardware/raspberrypi/mechanical/rpi_MECH_Zero_1p2.pdf
+raspberry pi zero through hole
+0
+40
+40
 Global Libraries
 SOIC127P600X175-16N
 16L SOP – 150 mil
@@ -52024,6 +52101,13 @@ TVS Diode (Uni-directional)
 6
 6
 Global Libraries
+STPS20M100SG-TR
+
+
+0
+3
+3
+Global Libraries
 TE_DT15-6P
 
 
@@ -52037,6 +52121,13 @@ TE_DT15-12PA
 0
 12
 12
+Global Libraries
+WE-DD_12XX_CROSSED12
+WE-DD_12XX_CROSSED12
+Inductor
+0
+4
+4
 Global Libraries
 rylan
 
@@ -78022,6 +78113,13 @@ Capacitor
 2
 2
 SamacSys_Parts
+CAS120A1
+CAS-120A1-2
+Switch (2-Pin Push)
+0
+3
+3
+SamacSys_Parts
 CAS120B
 CAS-120B-1
 Switch
@@ -78192,6 +78290,13 @@ Connector
 SamacSys_Parts
 JS202011JCQN
 JS202011JCQN
+Switch
+0
+6
+6
+SamacSys_Parts
+JS202011SCQN
+JS202011SCQN
 Switch
 0
 6
@@ -78371,6 +78476,13 @@ Integrated Circuit
 0
 5
 5
+SamacSys_Parts
+STB20N95K5
+D²PAK (TO-263)
+Schottky Diode
+0
+3
+3
 SamacSys_Parts
 TB00250002BE
 TB002-500-02BE-1
