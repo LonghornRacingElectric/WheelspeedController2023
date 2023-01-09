@@ -1,0 +1,53 @@
+ld,Name,Designator, Footprint, Quantity,MFR. Part #,Manufacturer ,Classification,Supplier,Supplier Part #,Price,Total $ USD
+1,10uF,C1 C2 ,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,2,CL10A106MA8NRNC,Samsung Electro-Mechanics,Basic,LCSC,C96446,0.0226,0.0452
+2,100n,C10 C11 C12 C13 C14 ,C_0603_1608Metric,5,CC0603KRX7R9BB104,YAGEO,Basic,LCSC,C14663,0.0021,0.0105
+3,1u,C15 ,C_0603_1608Metric,1,CC0603KRX5R8BB105 ,YAGEO,Basic,LCSC,C14664,0.0045,0.0045
+4,10n,C16 ,C_0603_1608Metric,1,0603B103K500NT ,FH,Basic,LCSC,C57112,0.0012,0.0012
+5,0u1,C17  ,C_0603_1608Metric,1,CC0603KRX7R9BB104 ,YAGEO,Basic,LCSC,C14663,0.0021,0.0021
+6,4.7n,C19,C_0603_1608Metric,1,0603B472K500NT,FH,Basic,LCSC,C53987,0.0026,0.0026
+7,10p,C21 C22 ,C_0603_1608Metric,2,CL10C100JB8NNNC,Samsung Electro-Mechanics,Basic,LCSC,C1634,0.0053,0.0106
+8,100nF,C3 C4 ,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,2,CC0603KRX7R9BB104 ,Yageo,Basic,LCSC,C14663,0.0021,0.0042
+9,22uF,C5 C6 C8 ,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,3,GRM188R61A226ME15D ,Murata,Extended,LCSC,C84419,0.0214,0.0642
+10,1uF,C7 ,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,1,CL10A105KB8NNNC ,Samsung Electro-Mechanics,Basic,LCSC,C15849,0.0048,0.0048
+11,4u7,C9 ,C_0603_1608Metric,1,CL10A475KO8NNNC ,Samsung Electro-Mechanics,Basic,LCSC,C19666,0.0085,0.0085
+12,SD0603S040S0R2,D1 D2 D3 D4 ,SamacSys_Parts:SD0603,4,SD0603S040S0R2 ,Kyocera AVX,Extended ,LCSC,C143772,0.1302,0.5208
+13,32V,D5 ,D_SOD-323,1,MM3Z36 ,Shandong Jingdao Microelectrics,Extended,LCSC,C382868,0.01,0.01
+14,0.7dV,D6 ,D_SMA,1,SS210 ,mdd,Basic,LCSC,C14996,0.0273,0.0273
+15,LED,D7 ,LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,1,BL-HJC36A-AV-TRB ,brtled,Extended,LCSC,C138546,0.0368,0.0368
+16,RED,D8 ,LED_0603_1608Metric,1,NCD0603R2,Foshan,Extended,LCSC,C90692,0.0177,0.0177
+17,2A,F1 ,Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder,1,12H1300C ,Shenzhen Lanson Elec,Extended ,LCSC ,C182445,0.035,0.035
+18,4u7,L1 ,L_Sunlord_MWSA0518_5.4x5.2mm,1,MWSA0503S-4R7MT ,Sunlord,Extended,LCSC,C408410,0.1253,0.1253
+19,68n,L2 ,L_0603_1608Metric,1,SDCL1608C68NJTDF,Sunlord,Basic,LCSC,C13415,0.0079,0.0079
+20,10K,R1 R2 ,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,2,0603WAF1002T5E ,Uni-Royal,Basic,LCSC,C25804,0.009,0.018
+21,220?,R10 R11 R12 ,R_0603_1608Metric,3,0603WAF2200T5E,Uni-Royal,Basic,LCSC,C22962,0.001,0.003
+22,120?,R13  R15  R17  R19  ,R_0603_1608Metric,4,0603WAF1200T5E,Uni-Royal,Basic,LCSC,C22787,0.001,0.004
+23,47?,R21 ,R_0603_1608Metric,1,RTT03R470FTP,RALEC,Basic           ,LCSC,C103895,0.0039,0.0039
+24,10K,R22 ,R_0603_1608Metric,1,0603WAF1002T5E,Uni-Royal,Basic           ,LCSC,C25804,0.0009,0.0009
+25,22?,R23 ,R_0603_1608Metric,1,0603WAF220JT5E,Uni-Royal,Basic,LCSC,C23345,0.001,0.001
+26,54.9K,R3 ,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,1,RMC060354.9K1%N ,TyoHM,Extended,LCSC,C325699,0.0035,0.0035
+27,470R,R4 ,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,1,0603WAF4700T5E ,Uni-Royal,Basic,LCSC,C23179,0.001,0.001
+28,100?,R9 ,R_0603_1608Metric,1,0603WAF3001T5E,Uni-Royal,Basic,LCSC,C4211,0.001,0.001
+29,AMS1117-3.3,U2 ,Package_TO_SOT_SMD:SOT-223-3_TabPin2,1,AMS1117-3.3 ,Advanced Monolithic Systems,Basic,LCSC,C6186,0.1402,0.1402
+30,SN65HVD230,U4,Package_SO:SOIC-8_3.9x4.9mm_P1.27mm,1,SN65HVD230DR,TI,Basic         ,LCSC,C12084,1.1711,1.1711
+31,16MHz,Y1 ,Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm,1,X322516MLB4SI,Tangxing,Basic       ,LCSC,C13738,0.0833,0.0833
+32,LMR51420,U1 ,Package_TO_SOT_SMD:SOT-23-6,1,LMR51420XFDDCR ,TI,N/A              ,Mouser,595-LMR51420XFDDCR ,1.56,1.56
+33,SMLVN6RGB,D10 ,LED_ROHM_SMLVN6,1,SMLVN6RGB1U1,ROHM,N/A              ,Mouser,755-SMLVN6RGB1U1,1.61,1.61
+34,DT1446-04TS-7,D9 ,SOT95P280X100-6N,1,"
+DT1446-04TS-7",Diodes INC,N/A              ,Mouser,621-DT1446-04TS-7 ,$0.41 ,0.41
+35,2k2,R5 R6 R7 R8 ,R_0603_1608Metric,4,ESR03EZPJ222 ,ROHM,N/A              ,Mouser,755-ESR03EZPJ222 ,0.14,0.56
+36,SW_SPDT,SW1 ,CAS120A1,1,"
+CAS-120A1",Nidec Copal,N/A              ,Mouser,229-CAS-120A1,1.12,1.12
+37,SW_SPDT,SW2 ,PinHeader_1x03_P1.27mm_Vertical,1,EG1218                    ,E-Switch,N/A              ,Mouser,612-EG1218 ,0.73,0.73
+38,DEUTSCH DT Inp,J1 ,Molex_Micro-Fit_3.0_43045-0600_2x03_P3.00mm_Horizontal,1," DT13-6P
+",TE Connectivity,N/A              ,Mouser,571- DT13-6P,15.83,15.83
+39,DEUTSCH DT Data,J2 ,Molex_Micro-Fit_3.0_43045-0600_2x03_P3.00mm_Horizontal,1," DT13-6P
+",TE Connectivity,N/A              ,Mouser,571- DT13-6P,15.83,15.83
+40,DEUTSCH DT Out,J3 ,Molex_Micro-Fit_3.0_43045-0600_2x03_P3.00mm_Horizontal,1," DT13-6P
+",TE Connectivity,N/A              ,Mouser,571- DT13-6P,15.83,15.83
+41,SWD,J6 ,Tag-Connect_TC2030-IDC-FP_2x03_P1.27mm_Vertical,1,TC2030-CTX             ,Tag-Connect,N/A              ,Tag-Connect,TC2030CTX,42.95,42.95
+42,Conn_01x02,J4,PinHeader_1x02_P2.54mm_Vertical,1,"
+10129378-902002BLF",Amphenol FCL,N/A              ,Mouser,649-10129378902002BLF,0.1,0.1
+43,STM32F105RCTx,U3 ,Package_QFP:LQFP-64_10x10mm_P0.5mm,1,STM32F105RCTx,ST,N/A              ,ST,null          ,10.84,10.84
+44, SolderJumper,JP1 JP2,SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm,2,SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm,N/A              ,N/A              ,N/A              ,N/A              ,0,0
+45,Just Holes in Board,TestPoint,TP1 TP2 TP3 TP4 ,4,TestPoint_Plated_Hole_D3.0mm,N/A              ,N/A              ,N/A              ,N/A              ,0,0
+46,Just Holes in Board,TestPoint,TP5 TP7  TP9 TP11 ,4,TestPoint_THTPad_1.0x1.0mm_Drill0.5mm,N/A              ,N/A              ,N/A              ,N/A              ,0,0

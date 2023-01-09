@@ -1,0 +1,22 @@
+ld,Name,Designator, Footprint, Quantity,MFR. Part #,Manufacturer ,Classification,Supplier,Supplier Part #,Price,Total $ USD
+1,LMR51420,U1 ,Package_TO_SOT_SMD:SOT-23-6,1,LMR51420XFDDCR ,TI,N/A              ,Mouser,595-LMR51420XFDDCR ,1.56,1.56
+2,SMLVN6RGB,D10 ,LED_ROHM_SMLVN6,1,SMLVN6RGB1U1,ROHM,N/A              ,Mouser,755-SMLVN6RGB1U1,1.61,1.61
+3,DT1446-04TS-7,D9 ,SOT95P280X100-6N,1,"
+DT1446-04TS-7",Diodes INC,N/A              ,Mouser,621-DT1446-04TS-7 ,$0.41 ,0.41
+4,2k2,R5 R6 R7 R8 ,R_0603_1608Metric,4,ESR03EZPJ222 ,ROHM,N/A              ,Mouser,755-ESR03EZPJ222 ,0.14,0.56
+5,SW_SPDT,SW1 ,CAS120A1,1,"
+CAS-120A1",Nidec Copal,N/A              ,Mouser,229-CAS-120A1,1.12,1.12
+6,SW_SPDT,SW2 ,PinHeader_1x03_P1.27mm_Vertical,1,EG1218                    ,E-Switch,N/A              ,Mouser,612-EG1218 ,0.73,0.73
+7,DEUTSCH DT Inp,J1 ,Molex_Micro-Fit_3.0_43045-0600_2x03_P3.00mm_Horizontal,1," DT13-6P
+",TE Connectivity,N/A              ,Mouser,571- DT13-6P,15.83,15.83
+8,DEUTSCH DT Data,J2 ,Molex_Micro-Fit_3.0_43045-0600_2x03_P3.00mm_Horizontal,1," DT13-6P
+",TE Connectivity,N/A              ,Mouser,571- DT13-6P,15.83,15.83
+9,DEUTSCH DT Out,J3 ,Molex_Micro-Fit_3.0_43045-0600_2x03_P3.00mm_Horizontal,1," DT13-6P
+",TE Connectivity,N/A              ,Mouser,571- DT13-6P,15.83,15.83
+10,SWD,J6 ,Tag-Connect_TC2030-IDC-FP_2x03_P1.27mm_Vertical,1,TC2030-CTX             ,Tag-Connect,N/A              ,Tag-Connect,TC2030CTX,42.95,42.95
+11,Conn_01x02,J4,PinHeader_1x02_P2.54mm_Vertical,1,"
+10129378-902002BLF",Amphenol FCL,N/A              ,Mouser,649-10129378902002BLF,0.1,0.1
+12,STM32F105RCTx,U3 ,Package_QFP:LQFP-64_10x10mm_P0.5mm,1,STM32F105RCTx,ST,N/A              ,ST,null          ,10.84,10.84
+13, SolderJumper,JP1 JP2,SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm,2,SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm,N/A              ,N/A              ,N/A              ,N/A              ,0,0
+14,Just Holes in Board,TestPoint,TP1 TP2 TP3 TP4 ,4,TestPoint_Plated_Hole_D3.0mm,N/A              ,N/A              ,N/A              ,N/A              ,0,0
+15,Just Holes in Board,TestPoint,TP5 TP7  TP9 TP11 ,4,TestPoint_THTPad_1.0x1.0mm_Drill0.5mm,N/A              ,N/A              ,N/A              ,N/A              ,0,0
